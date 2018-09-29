@@ -2,6 +2,10 @@
 
 Following https://www.youtube.com/watch?v=pmKyG3NBY_k&t=0s&list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU&index=2 tutorial to learn some CSS 😉 😁
 
+# Learned
+
+1. [Can I Use website](https://caniuse.com/)
+
 # Getting Started
 
 1. Clone this repo
